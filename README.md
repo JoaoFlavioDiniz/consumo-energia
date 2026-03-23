@@ -30,10 +30,10 @@ Para rodar o projeto localmente, siga estes passos:
 
 2. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone https://github.com/JoaoFlavioDiniz/consumo-energia.git
 
 3. **Clone o repositório:**
-cd nome-do-repositorio
+cd consumo-energia
 
 4. **Clone o repositório:**
 python app.py
