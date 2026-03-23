@@ -5,10 +5,10 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge)
 
 ## 📝 Sobre o Projeto
-O **Consumo Inteligente** é um script em Python desenvolvido para ajudar usuários a estimarem o gasto de energia de seus aparelhos domésticos. Com dados simples, o sistema calcula o consumo mensal em kWh e o custo estimado em Reais, facilitando o controle da conta de luz.
+O **Consumo Inteligente** é um script em Python desenvolvido para ajudar usuários a estimarem o gasto de energia de seus aparelhos domésticos. 
 
 ## 🚀 Objetivo
-Proporcionar uma ferramenta rápida e acessível para conscientização sobre o consumo energético residencial, permitindo identificar quais aparelhos têm maior impacto no orçamento familiar.
+Proporcionar uma aplicação para calcular o consumo energético residencial, permitindo identificar quais aparelhos consomem mais energia.
 
 ## 🧮 Fórmula Utilizada
 O cálculo é baseado na fórmula padrão de consumo elétrico:
@@ -58,4 +58,3 @@ Custo mensal estimado (R$ 0,75/kWh): R$ 216.00
 3. Não esqueça de trocar `seu-usuario/nome-do-repositorio` pelo seu link real do GitHub no passo de clonagem.
 4. Salve o arquivo e faça o `git add README.md`, `git commit` e o seu famoso `git push -u origin main`.
 
-**Gostaria que eu criasse também um arquivo `.gitignore` básico para o seu projeto de Python?**
