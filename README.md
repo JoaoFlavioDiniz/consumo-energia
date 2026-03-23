@@ -15,6 +15,10 @@ O cálculo é baseado na fórmula padrão de consumo elétrico:
 
 consumoMensal = (potencia * horasDia * 30) / 1000
 
+Para estimar o consumo em R$ foi usada a fórmula:
+
+custoEstimado = consumoMensal * 0.75
+
 > **Nota:** O custo financeiro é foi multiplicando o consumo mensal pelo valor da tarifa (padrão do sistema: **R$ 0,75/kWh**).
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -32,10 +36,10 @@ Para rodar o projeto localmente, siga estes passos:
    ```bash
    git clone https://github.com/JoaoFlavioDiniz/consumo-energia.git
 
-3. **Clone o repositório:**
+3. **Navegue até a pasta do projeto:**
 cd consumo-energia
 
-4. **Clone o repositório:**
+4. **Execute o arquivo app.py:**
 python app.py
 
 📋 Exemplo de Uso
